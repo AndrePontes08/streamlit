@@ -61,7 +61,7 @@ A base trata de registros de 12.330 sessões de acesso a páginas, cada sessão 
 ---
 
 ## Link para a aplicação (*Deploy* do projeto)
-https://rhatiro--ebac--projeto-de-agrupamento-hierarquico.streamlit.app/
+https://app-pvengenharia31.streamlit.app/
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro--ebac--projeto-de-agrupamento-hierarquico.streamlit.app/)
 

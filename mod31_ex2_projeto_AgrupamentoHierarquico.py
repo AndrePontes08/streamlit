@@ -79,8 +79,8 @@ def main():
                         # **Profissão: Cientista de Dados**
                         ### **Projeto de Agrupamento Hierárquico**
 
-                        **Por:** [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-                        **Data:** 30 de novembro de 2023.<br>
+                        **Por:** [Andre Pontes Vaz de Medeiros Filho](https://www.linkedin.com/in/andr%C3%A9-pontes-78476a235/)<br>
+                        **Data:** 30 de novembro de 2024.<br>
 
                         ---
                         ''', unsafe_allow_html=True)
@@ -213,7 +213,7 @@ def main():
     with st.echo():
         ""
         # Ler o arquivo CSV 'online_shoppers_intention.csv' e armazenar os dados em um DataFrame chamado df
-        df = pd.read_csv('https://raw.githubusercontent.com/AndrePontes08/streamlit/blob/main/online_shoppers_intention.csv')
+        df = pd.read_csv('https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/Modulo_31_-_Streamlit_V/Exercicio_2/online_shoppers_intention.csv')
 
         # Exibir o DataFrame df, mostrando os dados carregados do arquivo CSV
         st.dataframe(df)
